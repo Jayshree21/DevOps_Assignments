@@ -1,0 +1,11 @@
+Pros of NextJs:
+
+1. Adaptability and responsiveness- Websites created with NextJs have a great user experience and they can be adjusted to any screen size.
+
+2. Data security: In NextJs, websites are static and there is no direct connection to database, dependencies, user data which ensures data security.
+
+3. Support on Demand: Due to its popularity it is very easy in NextJS to find an agency or freelancer to make some changes if needed.
+
+4. Short Page Load Time: Statis websites are fast by nature, so performance of NextJS is pretty fast as compared to others.
+
+5. Fully Omnichannel: Websites and apps created with NextJS are accessible from any device so it is easy to to manage products and services through different channels.
