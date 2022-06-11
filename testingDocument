@@ -1,0 +1,26 @@
+Types of Testing:
+
+1. Accessibility testing: It is the practice of making our web application more accessible and usable to as many people as possible. Accessibility testing is basically for those with disabilities, such as vision impairment, hearing disabilities, and other physical or cognitive conditions.
+2. Acceptance testing: It is the last phase of software testing performed after system testing and before making the system available for actual use.
+3. Black box testing: Black Box testing is a type of software testing in which the functionality of the software is not known.
+   Black box can be done in the following ways:
+
+- Syntax Driven Testing: This type of testing is applied to systems that can be syntactically represented by some language.
+- Equivalence Partitioning: The idea is to group similar inputs together.
+
+4. End to end testing: It is used in the software development lifecycle to test the functionality and performance of an application under product-like circumstances. We perform start to finish testing just to test that every sub system work as expected.
+5. Functional testing: It is the process of validating functionality of a software application. Purpose of this is to validate all the software requirement that we integrated.
+6. Interactive testing: Interactive testing, also known as manual testing.
+7. Integration testing: It is also known as integration and testing(I&T).
+   It is the type of software testing in which the different units, modules or components of a software application are tested as a combined entity regardless of them being coded by different programmers.
+8. Load testing: A load test enables you to measure response times, resource-utilization levels. Load testing ensures that your application can perform as expected in production.
+9. Non functional testing: Nonfunctional testing verifies how applications work by examining things like performance, accessibility and UX.
+10. Performance testing: It is a testing that measures the speed, responsiveness and stability of a computer, network, software program or device under workload.
+11. Regression testing: Regression testing means that you perform testing continuously and on early basis. This testing makes sure that code changes don't break anything.
+12. Sanity testing: Sanity Testing is performed to ensure that the code changes introduced are working as expected. Sanity subset of regression testing.
+13. Security testing: Security testing is a type of software testing thaat uncovers vulnerabilities, threats, risks in a software application and prevents malicious attacks from intruders.
+14. Single user performance testing: Single user performance testing identifies bottlenecks at the user experience level.
+15. Smoke testing: It is a process that determines whether the deployed software build is stable or not. It consists of a minimal set of tests run on each build to test software functionalities. Smoke testing is also known as "Build Verification testing" or "Confidence Testing".
+16. Stress testing: It is the process of determining the ability of a computer, nettwork, program or device to maintain a certain level of effectiveness under unfavorable conditions.
+17. Unit testing: Unit Testing is a software development process in which the smallest testable parts of an application, called units, afre individually and independently scrutinized for proper operation.
+18. White-box testing: White box testing techniques analyze the internal structures the used data structures, internal design, code structure and the working of the software rather than just the functionality as in black box testing. It is also clled glass box testing or clear box testing or structural testing.
