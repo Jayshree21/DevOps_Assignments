@@ -6,4 +6,8 @@ SDLC's full form is Software Development Life Cycle and is also known software d
 It is nothing but a standard practice which is followed within an organisation to make the project successful. It consist of a detailed plan describing how to develop, maintain, replace and alter or enhance specific software.
 There are certain processes which SDLC contains. These are:
 
-1. Planning & Requirement Analysis: Research is the most important and fundamental stage in SDLC. This is something which
+1. Planning & Requirement Analysis: Research is the most important and fundamental stage in SDLC.
+
+2. Defining Requirements: This is the process of making an SRS which is Software Requirement Specification.
+
+3. Designing the Product Architecture: To make the desired architecture it is very necessary to understand all the requirements. Based on those requirements specified in SRS, we create more than one architecture approach and propose it to the client.
