@@ -1,6 +1,15 @@
-IAAS
-SAAS
-STAAS
-DaaS
-IAAS
-FAAS ( server less )
+There are some "As a Service" modules which are
+as follows:
+
+IAAS: Known as "Infrastructure as a service". It is a type of service that offers the outer infrastructure for any application. It provides you essential commute, storage and networking resources on demand, on a pay-as-you-go basis.
+
+SAAS: Known as "Software as a service". It is a way of delivering applications over the Internet-as-a service. Instead of installing it on your device, you can access it anywhere from internet. These kind of applications are also known as Web-based software, on-demand software, or hosted software.
+
+STAAS: Known as "Storage as a service". It is a type of cloud storage that you rent from a Cloud Service Provider which provides you the access of basic storage.
+
+DaaS: Known as "Desktop as a service". It is a cloud computing offering where a service provider delivers virtual desktops to end users over the internet.
+
+IAC: Known as "Infrastructure as Code". It is the process of managing data through machine readable definitions rather than physical drives.
+
+FAAS ( server less ): Known as "Function as a service". It is a cloud computing model that enables cloud customers to develop applications and deploy functionalities and only be charged when the functionality executes.
+Due to its use in deployment of microservices, it is also referred to as serverless computing.
