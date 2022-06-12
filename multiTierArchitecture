@@ -1,0 +1,15 @@
+Multi Tier Architecture is a client-server
+architecture in which presentation, application processing
+and data management functions are physically seperated.
+The most widespread use of multitier architecture is the
+Three-Tier Architecture.
+
+These three tiers are:
+
+1. Presentation Tier: Top-most level, works as user interface.
+   Main function is to translate the inner functionality into user friendly aspects.
+
+2. Application Tier: Also known as middle tier, logic tier or business logic
+   tier. This tier controls the whole logic of the application.
+
+3. Data Tier: It is the database layer which deals with all the data persistence mechanisms.
