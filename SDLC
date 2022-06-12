@@ -9,5 +9,7 @@ There are certain processes which SDLC contains. These are:
 1. Planning & Requirement Analysis: Research is the most important and fundamental stage in SDLC.
 
 2. Defining Requirements: This is the process of making an SRS which is Software Requirement Specification.
-
 3. Designing the Product Architecture: To make the desired architecture it is very necessary to understand all the requirements. Based on those requirements specified in SRS, we create more than one architecture approach and propose it to the client.
+4. Building or Developing the product: This is the stage where actual development starts and the product is built.
+5. Testing: This stage is usually a subset of all the stages as in the modern SDLC models, the testing activities are mostly involved in all the stages of SDLC.
+6. Deployemnt: Once the product is tested it is deployed on the servers.
