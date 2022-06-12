@@ -7,7 +7,10 @@ SAAS: Known as "Software as a service". It is a way of delivering applications o
 
 STAAS: Known as "Storage as a service". It is a type of cloud storage that you rent from a Cloud Service Provider which provides you the access of basic storage.
 
-DaaS: Known as "Desktop as a service". It is a cloud computing offering where a service provider delivers virtual desktops to end users over the internet.
+DaaS:
+(i) Known as "Desktop as a service". It is a cloud computing offering where a service provider delivers virtual desktops to end users over the internet.
+
+(ii) Known as "Database as a service". It is a cloud computing managed service offering that provides access to a database without requiring the setup of physical hardware, the installation of software or the need to configure the database.
 
 IAC: Known as "Infrastructure as Code". It is the process of managing data through machine readable definitions rather than physical drives.
 
