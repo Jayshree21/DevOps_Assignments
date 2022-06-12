@@ -1,0 +1,6 @@
+IAAS
+SAAS
+STAAS
+DaaS
+IAAS
+FAAS ( server less )
